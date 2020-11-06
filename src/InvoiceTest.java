@@ -3,6 +3,6 @@ public class InvoiceTest {
         Invoice invoice = new Invoice("a1bc2", "Samsung SSD 1TB", 200, 1);
         System.out.println("Part number: " + invoice.getPartNumber());
         System.out.println("Description: " + invoice.getPartDescription());
-        System.out.println("Total amount: " + invoice.getInvoiceAmount());
+
     }
 }
