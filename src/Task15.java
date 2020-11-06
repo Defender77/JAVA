@@ -23,7 +23,7 @@ public class Task15 {
         prod = number1 * number2;
         quot = number1 / (double)number2;
 
-        System.out.printf("Suma este %d%n",sum);
+        System.out.printf("Suma  %d%n",sum);
 
         System.out.printf("Diferenta este %d%n",dif);
 
